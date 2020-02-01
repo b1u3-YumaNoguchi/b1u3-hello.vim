@@ -1,1 +1,3 @@
-echo 'Hello, Vim!'
+function Hello()
+	echo 'Hello, Vim!'
+endfunction
